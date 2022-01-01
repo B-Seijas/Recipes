@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(230, 213, 189);
+}
+img{
+    height: 400px;
+}
+h3, h4{
+    background-color: rgb(248, 242, 242);
+    color: blue;
+}
